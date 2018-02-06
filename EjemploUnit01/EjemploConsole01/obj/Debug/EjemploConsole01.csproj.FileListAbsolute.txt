@@ -1,0 +1,12 @@
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\bin\Debug\EjemploConsole01.exe.config
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\bin\Debug\EjemploConsole01.exe
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\bin\Debug\EjemploConsole01.pdb
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\bin\Debug\nunit.framework.dll
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\bin\Debug\WebDriver.dll
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\bin\Debug\WebDriver.Support.dll
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\bin\Debug\nunit.framework.xml
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\bin\Debug\WebDriver.xml
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\bin\Debug\WebDriver.Support.xml
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\obj\Debug\EjemploConsole01.exe
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\obj\Debug\EjemploConsole01.pdb
+D:\JSalinas\Otros\nunit\ejemplo01\EjemploUnit01\EjemploConsole01\obj\Debug\EjemploConsole01.csprojResolveAssemblyReference.cache
